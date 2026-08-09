@@ -26,7 +26,6 @@ member-risk-stratification/
 │   └── 05_cost_concentration.sql
 ├── notebooks/
 │   └── risk_stratification_analysis.ipynb
-└── outputs/
 ```
 
 ## How to Run

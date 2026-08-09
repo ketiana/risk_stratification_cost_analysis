@@ -1,7 +1,7 @@
 # Member Risk Stratification & Cost Concentration Analysis
 
 Analysis of cost concentration in a synthetic health insurance population of 50,000 members.
-The top 34.4% of members account for approximately 21% of total payer spend.
+The top 10% of members account for approximately 34.4% of total payer spend.
 
 📊 [View Full Project Writeup](https://ketiana-portfolio.netlify.app/projects/member-risk-stratification-cost-analysis/)
 

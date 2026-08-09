@@ -1,7 +1,7 @@
 # Member Risk Stratification & Cost Concentration Analysis
 
 Analysis of cost concentration in a synthetic health insurance population of 50,000 members.
-The top 10% of members account for approximately X% of total payer spend.
+The top 10% of members account for approximately 21% of total payer spend.
 
 📊 [View Full Project Writeup](https://ketiana-portfolio.netlify.app/projects/member-risk-stratification-cost-analysis/)
 
@@ -16,16 +16,18 @@ a cost concentration curve.
 
 ## Repository Structure
 
+```
 member-risk-stratification/
 ├── sql/
-│ ├── 01_create_tables.sql
-│ ├── 02_explore_data.sql
-│ ├── 03_member_cost_summary.sql
-│ ├── 04_risk_tiers.sql
-│ └── 05_cost_concentration.sql
+│   ├── 01_create_tables.sql
+│   ├── 02_explore_data.sql
+│   ├── 03_member_cost_summary.sql
+│   ├── 04_risk_tiers.sql
+│   └── 05_cost_concentration.sql
 ├── notebooks/
-│ └── risk_stratification_analysis.ipynb
+│   └── risk_stratification_analysis.ipynb
 └── outputs/
+```
 
 ## How to Run
 
